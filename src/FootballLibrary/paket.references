@@ -2,6 +2,7 @@ Microsoft.AspNet.WebApi.Core
 FSharp.Core
 FSharp.Data
 Deedle
+Streams
 
 File:Domain.fs enigma
 File:Logic.fs enigma

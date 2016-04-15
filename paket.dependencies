@@ -12,6 +12,7 @@ nuget FAKE
 
 // Suave
 nuget Suave
+nuget Streams
 
 // Application Insights
 nuget Microsoft.ApplicationInsights.TraceListener content:none

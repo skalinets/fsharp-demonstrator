@@ -32,3 +32,4 @@ packages/
 output/
 paket-files/
 .fake/
+.vs/
